@@ -1,0 +1,6 @@
+[submodule "dxvk-remix"]
+	path = dxvk-remix
+	url = https://github.com/FrankBarretta/dxvk-remix.git
+[submodule "toolkit-remix"]
+	path = toolkit-remix
+	url = https://github.com/FrankBarretta/toolkit-remix.git
